@@ -1,7 +1,7 @@
 {
   "name": "project_web_chat",
   "version": "0.1.0",
-  "homepage": "https://NguyenBro.github.io/ChatAppReact/",
+  "homepage": "https://NguyenBro.github.io/ChatAppReact",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
