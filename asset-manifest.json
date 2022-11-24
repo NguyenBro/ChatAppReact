@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChatAppReact/static/css/main.3f4363bc.css",
-    "main.js": "/ChatAppReact/static/js/main.b30efccd.js",
+    "main.js": "/ChatAppReact/static/js/main.27f0885c.js",
     "static/js/845.ff5bdb61.chunk.js": "/ChatAppReact/static/js/845.ff5bdb61.chunk.js",
     "static/js/998.83a5ab36.chunk.js": "/ChatAppReact/static/js/998.83a5ab36.chunk.js",
     "static/js/2.c16b8a8e.chunk.js": "/ChatAppReact/static/js/2.c16b8a8e.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/hangup.svg": "/ChatAppReact/static/media/hangup.ff2bfc0b0a85b25bd45bcaec789370a3.svg",
     "index.html": "/ChatAppReact/index.html",
     "main.3f4363bc.css.map": "/ChatAppReact/static/css/main.3f4363bc.css.map",
-    "main.b30efccd.js.map": "/ChatAppReact/static/js/main.b30efccd.js.map",
+    "main.27f0885c.js.map": "/ChatAppReact/static/js/main.27f0885c.js.map",
     "845.ff5bdb61.chunk.js.map": "/ChatAppReact/static/js/845.ff5bdb61.chunk.js.map",
     "998.83a5ab36.chunk.js.map": "/ChatAppReact/static/js/998.83a5ab36.chunk.js.map",
     "2.c16b8a8e.chunk.js.map": "/ChatAppReact/static/js/2.c16b8a8e.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.3f4363bc.css",
-    "static/js/main.b30efccd.js"
+    "static/js/main.27f0885c.js"
   ]
 }
